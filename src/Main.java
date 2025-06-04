@@ -6,9 +6,12 @@ public class Main {
         //Resta resta = new Resta();
         //resta.resta(10,8,2);
 
-        OperacionesFaltantes operacionesFaltantes = new OperacionesFaltantes();
-        operacionesFaltantes.division(50,5);
-        operacionesFaltantes.multipliaccion(6,6);
+        //OperacionesFaltantes operacionesFaltantes = new OperacionesFaltantes();
+        //operacionesFaltantes.division(50,5);
+        //operacionesFaltantes.multipliaccion(6,6);
+
+        Persona persona = new Persona();
+        persona.mayorDeEdad();
     }
 
 
