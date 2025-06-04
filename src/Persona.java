@@ -12,6 +12,14 @@ public class Persona {
         }else{
             System.out.println("Eres mayor de edad");
         }
+    }
+
+    void descansar(boolean estaCansado){
+        if (estaCansado) {
+            System.out.println("Vete a dormir");
+        }else{
+            System.out.println("Programa un rato");
+        }
 
     }
 }
