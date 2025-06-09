@@ -12,7 +12,12 @@ public class Main {
 
         Persona persona = new Persona();
         persona.mayorDeEdad();
-        persona.descansar(false);
+        persona.descansar(true);
+        persona.correr(false);
+        persona.tarea();
+        persona.ducha(false);
+        persona.comer(true);
+        persona.ejercicio();
     }
 
 
